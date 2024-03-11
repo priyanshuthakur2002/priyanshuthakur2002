@@ -41,7 +41,8 @@
 <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://placehold.it/40x40"  alt="Solidity"
+    src="public/solidity.png"
+    alt="Solidity"
     width="40"
     height="40"
   />
