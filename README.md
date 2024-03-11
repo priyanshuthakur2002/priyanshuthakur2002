@@ -233,7 +233,7 @@
     />
   </a>
 </p>
-
+<br />
 <p>
   <img
     align="left"
