@@ -40,28 +40,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-  <img
-    src="public/solidity.png"
-    alt="Solidity"
-    width="40"
-    height="40"
-  />
-</a>
+    <img
+      src="public/solidity.png"
+      alt="Solidity"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<a
-href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-target="\_blank"
-rel="noreferrer"
-
->
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
     />
-
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
