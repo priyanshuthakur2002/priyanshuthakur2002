@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate Full Stack Blockchain Engineer from India</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=priyanshuthakur2002&label=Profile%20views&color=0e75b6&style=flat"
-    alt="priyanshuthakur2002"
-  />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=priyanshuthakur2002"
-      alt="priyanshuthakur2002"
-  /></a>
-</p>
-
 <ul>
   <li>💬 Ask me about <strong>Next.js, Solidity, Ethereum</strong></li>
   <li>📫 How to reach me <strong>priyanshu882534@gmail.com</strong></li>
